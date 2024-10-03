@@ -4,7 +4,7 @@
 *Data Scientist | M.Sc. Researcher in Neuroscience | Content Creator*
 
 ## Introduction
-A hot topic in Data Science is how to teach it. This repository presents my experience in organizing a 20-hour course on Deep Learning at USP - Universidade de São Paulo, the best university in Latin America. The course aimed to provide an introduction to Deep Learning, covering essential topics, and offering hands-on experience using PyTorch, the main framework in academia.
+A hot topic in Data Science is how to teach it. This repository presents the content of a 20-hour course on Deep Learning at USP - Universidade de São Paulo, the best university in Latin America. The course aimed to provide an introduction to Deep Learning, covering essential topics, and offering hands-on experience using PyTorch, the main framework in academia.
 
 ### Course Goals
 The course was designed for students with prior knowledge of Python programming, particularly with Numpy arrays, and a basic understanding of linear algebra and probability. The main topics covered were:
