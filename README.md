@@ -40,8 +40,6 @@ The following is a breakdown of the macro-areas and sub-topics covered, along wi
 - Tokens, Embeddings, RNN and LSTM, Self-Attention, Auto-encoder, Sentence transformers, LLMs Architecture, training LLMs.
 - **Hands-on:** Vector Databases.
 
-### What I Learned
-Teaching this course was a learning experience itself. Adapting to students' needs and interests while navigating the dynamic field of Deep Learning proved to be the real challenge. Yet, the engagement and diversity of student backgrounds provided valuable insights.
 
 ### Acknowledgments
 Special thanks to the Institute of Physics | University of São Paulo (IFUSP) for the infrastructure, the instructors for their time and effort, and the support team at HackerSpace IFUSP.
